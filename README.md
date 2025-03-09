@@ -1,6 +1,6 @@
 # Latihan Kuis
 
-A new Flutter project.
+Aplikasi ini merupakan latihan kuis Praktikum Mobile Programming yang bertujuan untuk membuat aplikasi CV sederhana dengan tiga halaman utama: **Login Page**, **Home Page**, dan **Profile Page**. Aplikasi ini menggunakan **Stateless** dan **Stateful Widget** dengan pemisahan kode yang baik. Fitur utama meliputi **form login dengan autentikasi sederhana**, **input data CV**, serta **navigasi antar halaman dengan pengelolaan state yang tepat**.
 
 ## Getting Started
 
