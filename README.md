@@ -1,4 +1,4 @@
-# pertemuan2
+# Latihan Kuis
 
 A new Flutter project.
 
